@@ -7,12 +7,21 @@ Aprenda como preparar e modelo seu primeiro banco de dados com base em um proble
 * [My-Sql](https://www.w3schools.com/mysql/)
 * [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-<br>
-<br>
-Instrutora : [Nathally Souza](https://www.linkedin.com/in/nathsouza)
-<br>
-<br>
-<br>
-[Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
 
- 🙏 Jeova Jireh - Deus Provera 🙏
+## Instruções :
+
+Instalar componentes do backend e frontend (npm i)<br>
+Backend na porta 5000 <br>
+Frontend na porta 3000<br>
+<br>
+<br>
+Instrutora : Nathally Souza
+https://www.linkedin.com/in/nathsouza
+<br>
+<br>
+<br>
+Me siga nas redes sociais
+https://linktr.ee/ygtecnologia
+<br>
+<br>
+🙏  Jeova Jireh - Deus Provera  🙏
